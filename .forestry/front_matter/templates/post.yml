@@ -26,3 +26,8 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+- name: contributor
+  type: text
+  config:
+    required: true
+  label: contributor
